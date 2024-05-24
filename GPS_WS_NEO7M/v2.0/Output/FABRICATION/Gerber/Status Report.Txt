@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [GPS_WS_NEO7M.PcbDoc]
+   Generated File[GPS_WS_NEO7M-Plated.TXT]
+   Generated File[GPS_WS_NEO7M.LDP]
+   Generated File[GPS_WS_NEO7M.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:50:47 On 12.03.2024

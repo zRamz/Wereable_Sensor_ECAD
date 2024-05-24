@@ -1,0 +1,42 @@
+Added Component: Designator=D?(SODFL5226X100N)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SS34ALH/Taiwan+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SS34ALH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-221AC Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SS34ALH/Taiwan+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X?(CON4_bat)
+Add component (AddParameter): Name = "BOM"; Value = "Аккумулятор литий ионный    LP401230 Robiton"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint_Description"; Value = "Custom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Human_Readable"; Value = "Аккумулятор литий ионный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Robiton"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartnumber"; Value = "LP401230"; VariantName = "[No Variations]"
+Added Component: Designator=X?(CON4_bat)
+Add component (AddParameter): Name = "BOM"; Value = "Аккумулятор литий ионный    LP401230 Robiton"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint_Description"; Value = "Custom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Human_Readable"; Value = "Аккумулятор литий ионный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Robiton"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartnumber"; Value = "LP401230"; VariantName = "[No Variations]"
+Added Component: Designator=X?(CON4_bat)
+Add component (AddParameter): Name = "BOM"; Value = "Аккумулятор литий ионный    LP401230 Robiton"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint_Description"; Value = "Custom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Human_Readable"; Value = "Аккумулятор литий ионный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Robiton"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartnumber"; Value = "LP401230"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=D?-1
+Added Pin To Net: NetName=BAT_MAIN Pin=X?-1
+Added Pin To Net: NetName=NetC32_2 Pin=X?-1
+Added Pin To Net: NetName=Vin Pin=X?-1
+Added Pin To Net: NetName=BAT_GND_MAIN Pin=X?-2
+Added Pin To Net: NetName=GND Pin=X?-2
+Added Pin To Net: NetName=Vin Pin=X?-2
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=U22-1
+Added Net: Name=NetD?_2
+Added Member To Class: ClassName=Charge_station Member=Component D? SS34ALH
+Added Member To Class: ClassName=Charge_station Member=Component X? CON2
+Added Member To Class: ClassName=Charge_station Member=Component X? CON2
+Added Member To Class: ClassName=Charge_station Member=Component X? CON2
+Added Room: Name=Charge_station

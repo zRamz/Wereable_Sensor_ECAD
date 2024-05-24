@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 16:20:19 On 28.03.2024
+
+Output: SPEC
+Type  : BOM
+From  : Variant [main] of Project [GPS_WS_NEO7M.PrjPcb]
+   Generated File[SPEC-GPS_WS_NEO7M.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 16:20:21 On 28.03.2024

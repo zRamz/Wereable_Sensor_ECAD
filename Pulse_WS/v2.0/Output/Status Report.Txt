@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 16:18:52 On 28.03.2024
+
+Output: SPEC
+Type  : BOM
+From  : Variant [main] of Project [Pulse_WS_MAX30105.PrjPcb]
+   Generated File[SPEC-Pulse_WS_MAX30105.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 16:18:56 On 28.03.2024

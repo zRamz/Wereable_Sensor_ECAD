@@ -1,0 +1,17 @@
+Change Component Footprint: Designator=X1 Old Footprint=POGO PINS New Footprint=POGO_CON
+Change Component Footprint: Designator=X2 Old Footprint=POGO PINS New Footprint=POGO_CON
+Change Component Footprint: Designator=X3 Old Footprint=POGO PINS New Footprint=POGO_CON
+Change Component Footprint: Designator=X4 Old Footprint=POGO PINS New Footprint=POGO_CON
+Change Component Footprint: Designator=X5 Old Footprint=POGO PINS New Footprint=POGO_CON
+Change Component Footprint: Designator=X6 Old Footprint=POGO PINS New Footprint=POGO_CON
+Change Component Footprint: Designator=X7 Old Footprint=POGO PINS New Footprint=POGO_CON
+Change Component Footprint: Designator=X8 Old Footprint=POGO PINS New Footprint=POGO_CON
+Change Component Footprint: Designator=X9 Old Footprint=POGO PINS New Footprint=POGO_CON
+Change Component Footprint: Designator=X10 Old Footprint=POGO PINS New Footprint=POGO_CON
+Added Member To Class: ClassName=Charge_station Member=Component C34 STD_CAP
+Added Member To Class: ClassName=Charge_station Member=Component R32 STD_RES
+Added Member To Class: ClassName=Charge_station Member=Component R34 STD_RES
+Added Member To Class: ClassName=Charge_station Member=Component U21 MT3608
+Added Member To Class: ClassName=Charge_station Member=Component X1 Charge Connector
+Added Member To Class: ClassName=Charge_station Member=Component X2 Charge Connector
+Added Member To Class: ClassName=Charge_station Member=Component X4 Charge Connector

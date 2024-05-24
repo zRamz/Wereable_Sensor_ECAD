@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D21
+Change Component Designator: OldDesignator=X? NewDesignator=X11
+Change Component Designator: OldDesignator=X? NewDesignator=X12
+Change Component Designator: OldDesignator=X? NewDesignator=X13
+Added Pin To Net: NetName=NetD21_2 Pin=D21-2
+Added Pin To Net: NetName=NetD21_2 Pin=L1-2
+Added Pin To Net: NetName=NetD21_2 Pin=U22-1
+Added Net: Name=NetD21_2
+Added Member To Class: ClassName=Charge_station Member=Component X11 CON2
+Added Member To Class: ClassName=Charge_station Member=Component X13 CON2
+Added Room: Name=Charge_station

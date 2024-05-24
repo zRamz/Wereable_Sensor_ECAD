@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Pulse_WS_MAX30105.PcbDoc]
+   Generated File[Pulse_WS_MAX30105-Plated.TXT]
+   Generated File[Pulse_WS_MAX30105.LDP]
+   Generated File[Pulse_WS_MAX30105.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:49:25 On 12.03.2024

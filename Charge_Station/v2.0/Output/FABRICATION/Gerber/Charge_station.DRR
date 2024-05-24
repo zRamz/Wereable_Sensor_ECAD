@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Charge_station.PcbDoc   12.04.2024  19:12:09
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : Charge_station-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             211       PTH        834.85mm (32.87inch)
+T2      1.02mm (40mil)                                            Round             6         PTH        25.18mm (0.99inch)
+T3      1.04mm (41mil)                                            Round             38        PTH        200.66mm (7.90inch)
+T4      1.2mm (47mil)                                             Round             30        PTH        449.38mm (17.69inch)
+T5      2.5mm (98mil)                                             Round             20        PTH        454.63mm (17.90inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              305
+
+Total Processing Time (hh:mm:ss) : 00:00:01

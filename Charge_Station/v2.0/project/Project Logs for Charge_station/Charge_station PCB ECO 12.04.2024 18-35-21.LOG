@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Vin Pin=D23-A
+Removed Pin From Net: NetName=Vin Pin=D24-A
+Added Pin To Net: NetName=5V Pin=D23-A
+Added Pin To Net: NetName=5V Pin=D24-A
+Added Member To Class: ClassName=Charge_station Member=Component X12 CON2
+Added Room: Name=Charge_station

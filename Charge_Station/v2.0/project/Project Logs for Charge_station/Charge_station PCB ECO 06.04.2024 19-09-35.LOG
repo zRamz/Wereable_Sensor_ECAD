@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Vin Pin=X13-1
+Added Pin To Net: NetName=NetC33_2 Pin=X13-1
+Change Net Name : Old Net Name=NetC33_2 New Net Name=BAT_MAIN
+Added Member To Class: ClassName=Charge_station Member=Component R35 STD_RES
+Added Room: Name=Charge_station

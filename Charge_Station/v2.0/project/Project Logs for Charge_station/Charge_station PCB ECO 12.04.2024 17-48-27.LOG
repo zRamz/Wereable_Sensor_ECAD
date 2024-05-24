@@ -1,0 +1,30 @@
+Added Component: Designator=U21(SOP127P600X175-9N)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TP4056/NanJing+Top+Power+ASIC+Corp./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "NanJing Top Power ASIC Corp."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TP4056"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TP4056/NanJing+Top+Power+ASIC+Corp./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D21-1
+Add Pin To Net: Unknown Pin: Pin D21-2
+Added Pin To Net: NetName=GND Pin=U21-1
+Added Pin To Net: NetName=GND Pin=U21-3
+Added Pin To Net: NetName=Vin Pin=U21-4
+Added Pin To Net: NetName=BAT_MAIN Pin=U21-5
+Added Pin To Net: NetName=STDBY_M Pin=U21-6
+Added Pin To Net: NetName=CHRG_M Pin=U21-7
+Added Pin To Net: NetName=Vin Pin=U21-8
+Added Pin To Net: NetName=GND Pin=U21-9
+Add Pin To Net: Unknown Pin: Pin X11-1
+Add Pin To Net: Unknown Pin: Pin X11-2
+Add Pin To Net: Unknown Pin: Pin X12-1
+Add Pin To Net: Unknown Pin: Pin X12-2
+Add Pin To Net: Unknown Pin: Pin X13-1
+Add Pin To Net: Unknown Pin: Pin X13-2
+Added Pin To Net: NetName=NetR51_2 Pin=R51-2
+Added Pin To Net: NetName=NetR51_2 Pin=U21-2
+Added Net: Name=NetR51_2
+Added Member To Class: ClassName=Charge_station Member=Component U21 TP4056
+Added Room: Name=Charge_station

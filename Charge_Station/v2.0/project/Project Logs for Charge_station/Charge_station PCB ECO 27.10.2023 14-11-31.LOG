@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=X1 Old Footprint=CON4_bat New Footprint=CON2
+Change Component Footprint: Designator=X2 Old Footprint=CON4_bat New Footprint=CON2
+Add Component: Footprint Not Found SOD523
+Add Component: Footprint Not Found SOD523
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin U?-J2-14
+Add Pin To Net: Unknown Pin: Pin U?-J2-19
+Add Pin To Net: Unknown Pin: Pin U?-J3-1
+Add Pin To Net: Unknown Pin: Pin U?-J3-7
+Add Class Member: Failed to add class member : Component D1 RB520S30T1G
+Add Class Member: Failed to add class member : Component D2 RB520S30T1G
+Add Class Member: Failed to add class member : Component U? ESP32-DEVKITC-32D
+Added Room: Name=Charge_station

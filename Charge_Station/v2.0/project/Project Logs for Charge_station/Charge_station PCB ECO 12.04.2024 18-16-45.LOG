@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=Charge_station Member=D21
+Removed Member From Class: ClassName=Charge_station Member=X11
+Removed Member From Class: ClassName=Charge_station Member=X12
+Removed Member From Class: ClassName=Charge_station Member=X13
+Added Room: Name=Charge_station

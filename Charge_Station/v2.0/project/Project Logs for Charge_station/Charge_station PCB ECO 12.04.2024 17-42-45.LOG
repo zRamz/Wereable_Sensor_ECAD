@@ -1,0 +1,29 @@
+Add Pin To Net: Unknown Pin: Pin D21-1
+Add Pin To Net: Unknown Pin: Pin D21-2
+Add Pin To Net: Unknown Pin: Pin U21-1
+Add Pin To Net: Unknown Pin: Pin U21-2
+Add Pin To Net: Unknown Pin: Pin U21-3
+Add Pin To Net: Unknown Pin: Pin U21-4
+Add Pin To Net: Unknown Pin: Pin U21-5
+Add Pin To Net: Unknown Pin: Pin U21-6
+Add Pin To Net: Unknown Pin: Pin U21-7
+Add Pin To Net: Unknown Pin: Pin U21-8
+Add Pin To Net: Unknown Pin: Pin U21-9
+Add Pin To Net: Unknown Pin: Pin X11-1
+Add Pin To Net: Unknown Pin: Pin X11-2
+Add Pin To Net: Unknown Pin: Pin X12-1
+Add Pin To Net: Unknown Pin: Pin X12-2
+Add Pin To Net: Unknown Pin: Pin X13-1
+Add Pin To Net: Unknown Pin: Pin X13-2
+Added Member To Class: ClassName=Charge_station Member=Component C4 STD_CAP
+Added Member To Class: ClassName=Charge_station Member=Component C7 STD_CAP
+Added Member To Class: ClassName=Charge_station Member=Component C11 STD_CAP
+Added Member To Class: ClassName=Charge_station Member=Component Q4 FS8205A
+Added Member To Class: ClassName=Charge_station Member=Component R4 STD_RES
+Added Member To Class: ClassName=Charge_station Member=Component R7 STD_RES
+Added Member To Class: ClassName=Charge_station Member=Component R24 STD_RES
+Added Member To Class: ClassName=Charge_station Member=Component U4 TP4056
+Added Member To Class: ClassName=Charge_station Member=Component U9 DW01A
+Added Member To Class: ClassName=Charge_station Member=Component X3 Charge Connector
+Added Member To Class: ClassName=Charge_station Member=Component X4 Charge Connector
+Added Room: Name=Charge_station

@@ -1,0 +1,117 @@
+Removed Pin From Net: NetName=BAT_GND_WS1 Pin=X?-2
+Removed Pin From Net: NetName=BAT_GND_WS2 Pin=X?-2
+Removed Pin From Net: NetName=BAT_GND_WS3 Pin=X?-2
+Removed Pin From Net: NetName=BAT_GND_WS4 Pin=X?-2
+Removed Pin From Net: NetName=BAT_GND_WS5 Pin=X?-2
+Removed Pin From Net: NetName=BAT_GND_WS6 Pin=X?-2
+Removed Pin From Net: NetName=BAT_GND_WS7 Pin=X?-2
+Removed Pin From Net: NetName=BAT_GND_WS8 Pin=X?-2
+Removed Pin From Net: NetName=BAT_GND_WS9 Pin=X?-2
+Removed Pin From Net: NetName=BAT_GND_WS10 Pin=X?-2
+Change Component DesignItemId : Designator=X? Old DesignItemId=CON2 New DesignItemId=Charge Connector
+Change Component DesignItemId : Designator=X? Old DesignItemId=CON2 New DesignItemId=Charge Connector
+Change Component DesignItemId : Designator=X? Old DesignItemId=CON2 New DesignItemId=Charge Connector
+Change Component DesignItemId : Designator=X? Old DesignItemId=CON2 New DesignItemId=Charge Connector
+Change Component DesignItemId : Designator=X? Old DesignItemId=CON2 New DesignItemId=Charge Connector
+Change Component DesignItemId : Designator=X? Old DesignItemId=CON2 New DesignItemId=Charge Connector
+Change Component DesignItemId : Designator=X? Old DesignItemId=CON2 New DesignItemId=Charge Connector
+Change Component DesignItemId : Designator=X? Old DesignItemId=CON2 New DesignItemId=Charge Connector
+Change Component DesignItemId : Designator=X? Old DesignItemId=CON2 New DesignItemId=Charge Connector
+Change Component DesignItemId : Designator=X? Old DesignItemId=CON2 New DesignItemId=Charge Connector
+Change Component Footprint: Designator=X? Old Footprint=CON4_bat New Footprint=POGO PINS
+Change Component Footprint: Designator=X? Old Footprint=CON4_bat New Footprint=POGO PINS
+Change Component Footprint: Designator=X? Old Footprint=CON4_bat New Footprint=POGO PINS
+Change Component Footprint: Designator=X? Old Footprint=CON4_bat New Footprint=POGO PINS
+Change Component Footprint: Designator=X? Old Footprint=CON4_bat New Footprint=POGO PINS
+Change Component Footprint: Designator=X? Old Footprint=CON4_bat New Footprint=POGO PINS
+Change Component Footprint: Designator=X? Old Footprint=CON4_bat New Footprint=POGO PINS
+Change Component Footprint: Designator=X? Old Footprint=CON4_bat New Footprint=POGO PINS
+Change Component Footprint: Designator=X? Old Footprint=CON4_bat New Footprint=POGO PINS
+Change Component Footprint: Designator=X? Old Footprint=CON4_bat New Footprint=POGO PINS
+Change Component Comment : Designator=X? Old Comment=CON2 New Comment=Charge Connector
+Change Component Comment : Designator=X? Old Comment=CON2 New Comment=Charge Connector
+Change Component Comment : Designator=X? Old Comment=CON2 New Comment=Charge Connector
+Change Component Comment : Designator=X? Old Comment=CON2 New Comment=Charge Connector
+Change Component Comment : Designator=X? Old Comment=CON2 New Comment=Charge Connector
+Change Component Comment : Designator=X? Old Comment=CON2 New Comment=Charge Connector
+Change Component Comment : Designator=X? Old Comment=CON2 New Comment=Charge Connector
+Change Component Comment : Designator=X? Old Comment=CON2 New Comment=Charge Connector
+Change Component Comment : Designator=X? Old Comment=CON2 New Comment=Charge Connector
+Change Component Comment : Designator=X? Old Comment=CON2 New Comment=Charge Connector
+Change Component Designator: OldDesignator=C34 NewDesignator=C35
+Change Component Designator: OldDesignator=C35 NewDesignator=C34
+Change Component Designator: OldDesignator=R32 NewDesignator=R34
+Change Component Designator: OldDesignator=R33 NewDesignator=R32
+Change Component Designator: OldDesignator=R34 NewDesignator=R33
+Change Component Designator: OldDesignator=U21 NewDesignator=U22
+Change Component Designator: OldDesignator=U22 NewDesignator=U21
+Change Component Designator: OldDesignator=U? NewDesignator=U24
+Change Component Designator: OldDesignator=X1 NewDesignator=X11
+Change Component Designator: OldDesignator=X2 NewDesignator=X12
+Change Component Designator: OldDesignator=X? NewDesignator=X1
+Change Component Designator: OldDesignator=X? NewDesignator=X2
+Change Component Designator: OldDesignator=X? NewDesignator=X3
+Change Component Designator: OldDesignator=X? NewDesignator=X4
+Change Component Designator: OldDesignator=X? NewDesignator=X5
+Change Component Designator: OldDesignator=X? NewDesignator=X6
+Change Component Designator: OldDesignator=X? NewDesignator=X7
+Change Component Designator: OldDesignator=X? NewDesignator=X8
+Change Component Designator: OldDesignator=X? NewDesignator=X9
+Change Component Designator: OldDesignator=X? NewDesignator=X10
+Change Component Designator: OldDesignator=X? NewDesignator=X13
+Change Component Description : Designator=X7 Old Description=Коннектор двухконтактный New Description=Выводы под плату зарядки
+Change Component Description : Designator=X6 Old Description=Коннектор двухконтактный New Description=Выводы под плату зарядки
+Change Component Description : Designator=X8 Old Description=Коннектор двухконтактный New Description=Выводы под плату зарядки
+Change Component Description : Designator=X10 Old Description=Коннектор двухконтактный New Description=Выводы под плату зарядки
+Change Component Description : Designator=X9 Old Description=Коннектор двухконтактный New Description=Выводы под плату зарядки
+Change Component Description : Designator=X2 Old Description=Коннектор двухконтактный New Description=Выводы под плату зарядки
+Change Component Description : Designator=X1 Old Description=Коннектор двухконтактный New Description=Выводы под плату зарядки
+Change Component Description : Designator=X3 Old Description=Коннектор двухконтактный New Description=Выводы под плату зарядки
+Change Component Description : Designator=X5 Old Description=Коннектор двухконтактный New Description=Выводы под плату зарядки
+Change Component Description : Designator=X4 Old Description=Коннектор двухконтактный New Description=Выводы под плату зарядки
+Change component parameters: Designator = "X?" ("X?"); Footprint = "CON4_bat"; UniqueID = "\ZSJEEPCG" ("\ZSJEEPCG")
+Change component parameters: Designator = "X?" ("X?"); Footprint = "CON4_bat"; UniqueID = "\FUEIUVPV" ("\FUEIUVPV")
+Change component parameters: Designator = "X?" ("X?"); Footprint = "CON4_bat"; UniqueID = "\KZLTTGRP" ("\KZLTTGRP")
+Change component parameters: Designator = "X?" ("X?"); Footprint = "CON4_bat"; UniqueID = "\TNXRFLCH" ("\TNXRFLCH")
+Change component parameters: Designator = "X?" ("X?"); Footprint = "CON4_bat"; UniqueID = "\RKBVJCJV" ("\RKBVJCJV")
+Change component parameters: Designator = "X?" ("X?"); Footprint = "CON4_bat"; UniqueID = "\ODJEGASV" ("\ODJEGASV")
+Change component parameters: Designator = "X?" ("X?"); Footprint = "CON4_bat"; UniqueID = "\PXLUMOJW" ("\PXLUMOJW")
+Change component parameters: Designator = "X?" ("X?"); Footprint = "CON4_bat"; UniqueID = "\LIIWKTAG" ("\LIIWKTAG")
+Change component parameters: Designator = "X?" ("X?"); Footprint = "CON4_bat"; UniqueID = "\VCBVYESS" ("\VCBVYESS")
+Change component parameters: Designator = "X?" ("X?"); Footprint = "CON4_bat"; UniqueID = "\GRVZPWZQ" ("\GRVZPWZQ")
+Added Pin To Net: NetName=Charge_Bat_WS_1 Pin=X1-2
+Added Pin To Net: NetName=BAT_GND_WS1 Pin=X1-3
+Added Pin To Net: NetName=Charge_Bat_WS_2 Pin=X2-2
+Added Pin To Net: NetName=BAT_GND_WS2 Pin=X2-3
+Added Pin To Net: NetName=Charge_Bat_WS_3 Pin=X3-2
+Added Pin To Net: NetName=BAT_GND_WS3 Pin=X3-3
+Added Pin To Net: NetName=Charge_Bat_WS_4 Pin=X4-2
+Added Pin To Net: NetName=BAT_GND_WS4 Pin=X4-3
+Added Pin To Net: NetName=Charge_Bat_WS_5 Pin=X5-2
+Added Pin To Net: NetName=BAT_GND_WS5 Pin=X5-3
+Added Pin To Net: NetName=Charge_Bat_WS_6 Pin=X6-2
+Added Pin To Net: NetName=BAT_GND_WS6 Pin=X6-3
+Added Pin To Net: NetName=Charge_Bat_WS_7 Pin=X7-2
+Added Pin To Net: NetName=BAT_GND_WS7 Pin=X7-3
+Added Pin To Net: NetName=Charge_Bat_WS_8 Pin=X8-2
+Added Pin To Net: NetName=BAT_GND_WS8 Pin=X8-3
+Added Pin To Net: NetName=Charge_Bat_WS_9 Pin=X9-2
+Added Pin To Net: NetName=BAT_GND_WS9 Pin=X9-3
+Added Pin To Net: NetName=Charge_Bat_WS_10 Pin=X10-2
+Added Pin To Net: NetName=BAT_GND_WS10 Pin=X10-3
+Change Net Name : Old Net Name=NetC34_2 New Net Name=NetC35_2
+Change Net Name : Old Net Name=NetR33_1 New Net Name=NetR32_1
+Added Member To Class: ClassName=Charge_station Member=Component U23 DW01A
+Added Member To Class: ClassName=Charge_station Member=Component X1 Charge Connector
+Added Member To Class: ClassName=Charge_station Member=Component X2 Charge Connector
+Added Member To Class: ClassName=Charge_station Member=Component X3 Charge Connector
+Added Member To Class: ClassName=Charge_station Member=Component X5 Charge Connector
+Added Member To Class: ClassName=Charge_station Member=Component X6 Charge Connector
+Added Member To Class: ClassName=Charge_station Member=Component X7 Charge Connector
+Added Member To Class: ClassName=Charge_station Member=Component X8 Charge Connector
+Added Member To Class: ClassName=Charge_station Member=Component X9 Charge Connector
+Added Member To Class: ClassName=Charge_station Member=Component X10 Charge Connector
+Added Member To Class: ClassName=Charge_station Member=Component X11 CON2
+Added Member To Class: ClassName=Charge_station Member=Component X12 CON2
+Added Member To Class: ClassName=Charge_station Member=Component X13 CON2
+Added Room: Name=Charge_station

@@ -1,0 +1,20 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Charge_station.PrjPcb]
+   Generated File[GPS_WS_NEO7M.GTO]
+   Generated File[GPS_WS_NEO7M.GTP]
+   Generated File[GPS_WS_NEO7M.GTS]
+   Generated File[GPS_WS_NEO7M.GTL]
+   Generated File[GPS_WS_NEO7M.GBL]
+   Generated File[GPS_WS_NEO7M.GBS]
+   Generated File[GPS_WS_NEO7M.GBP]
+   Generated File[GPS_WS_NEO7M.GBO]
+   Generated File[GPS_WS_NEO7M.GM]
+   Generated File[Charge_station.EXTREP]
+   Generated File[Charge_station.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 15:41:06 On 02.02.2024

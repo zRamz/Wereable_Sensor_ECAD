@@ -1,0 +1,52 @@
+Change Component Footprint: Designator=X1 Old Footprint=POGO_CON New Footprint=POGO PINS
+Change Component Footprint: Designator=X2 Old Footprint=POGO_CON New Footprint=POGO PINS
+Change Component Footprint: Designator=X3 Old Footprint=POGO_CON New Footprint=POGO PINS
+Change Component Footprint: Designator=X4 Old Footprint=POGO_CON New Footprint=POGO PINS
+Change Component Footprint: Designator=X5 Old Footprint=POGO_CON New Footprint=POGO PINS
+Change Component Footprint: Designator=X6 Old Footprint=POGO_CON New Footprint=POGO PINS
+Change Component Footprint: Designator=X7 Old Footprint=POGO_CON New Footprint=POGO PINS
+Change Component Footprint: Designator=X8 Old Footprint=POGO_CON New Footprint=POGO PINS
+Change Component Footprint: Designator=X9 Old Footprint=POGO_CON New Footprint=POGO PINS
+Change Component Footprint: Designator=X10 Old Footprint=POGO_CON New Footprint=POGO PINS
+Added Component: Designator=D21(SODFL5226X100N)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SS34ALH/Taiwan+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SS34ALH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-221AC Taiwan Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SS34ALH/Taiwan+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X11(CON4_bat)
+Add component (AddParameter): Name = "BOM"; Value = "Аккумулятор литий ионный    LP401230 Robiton"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint_Description"; Value = "Custom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Human_Readable"; Value = "Аккумулятор литий ионный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Robiton"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartnumber"; Value = "LP401230"; VariantName = "[No Variations]"
+Added Component: Designator=X12(CON4_bat)
+Add component (AddParameter): Name = "BOM"; Value = "Аккумулятор литий ионный    LP401230 Robiton"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint_Description"; Value = "Custom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Human_Readable"; Value = "Аккумулятор литий ионный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Robiton"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartnumber"; Value = "LP401230"; VariantName = "[No Variations]"
+Added Component: Designator=X13(CON4_bat)
+Add component (AddParameter): Name = "BOM"; Value = "Аккумулятор литий ионный    LP401230 Robiton"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint_Description"; Value = "Custom"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Human_Readable"; Value = "Аккумулятор литий ионный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Robiton"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartnumber"; Value = "LP401230"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=D21-1
+Added Pin To Net: NetName=Vin Pin=X11-1
+Added Pin To Net: NetName=GND Pin=X11-2
+Added Pin To Net: NetName=NetC32_2 Pin=X12-1
+Added Pin To Net: NetName=Vin Pin=X12-2
+Added Pin To Net: NetName=BAT_MAIN Pin=X13-1
+Added Pin To Net: NetName=BAT_GND_MAIN Pin=X13-2
+Added Pin To Net: NetName=NetD21_2 Pin=D21-2
+Added Pin To Net: NetName=NetD21_2 Pin=U22-1
+Added Net: Name=NetD21_2
+Added Member To Class: ClassName=Charge_station Member=Component D21 SS34ALH
+Added Member To Class: ClassName=Charge_station Member=Component X11 CON2
+Added Member To Class: ClassName=Charge_station Member=Component X12 CON2
+Added Member To Class: ClassName=Charge_station Member=Component X13 CON2
+Added Room: Name=Charge_station

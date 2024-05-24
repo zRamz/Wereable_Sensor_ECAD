@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=Charge_station Member=U21
+Add Pin To Net: Unknown Pin: Pin D21-1
+Add Pin To Net: Unknown Pin: Pin D21-2
+Add Pin To Net: Unknown Pin: Pin X11-1
+Add Pin To Net: Unknown Pin: Pin X11-2
+Add Pin To Net: Unknown Pin: Pin X12-1
+Add Pin To Net: Unknown Pin: Pin X12-2
+Add Pin To Net: Unknown Pin: Pin X13-1
+Add Pin To Net: Unknown Pin: Pin X13-2
+Added Room: Name=Charge_station

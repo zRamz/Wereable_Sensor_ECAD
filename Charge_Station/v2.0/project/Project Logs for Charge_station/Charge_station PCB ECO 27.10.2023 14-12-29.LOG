@@ -1,0 +1,33 @@
+Added Component: Designator=D1(SOD523)
+Add component (AddParameter): Name = "BOM"; Value = "Diode Schotky    1PS79SB70 NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint_Description"; Value = "SOD523"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Human_Readable"; Value = "Diode Schotky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartnumber"; Value = "1PS79SB70"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1PS79SB70"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2(SOD523)
+Add component (AddParameter): Name = "BOM"; Value = "Diode Schotky    1PS79SB70 NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint_Description"; Value = "SOD523"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Human_Readable"; Value = "Diode Schotky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartnumber"; Value = "1PS79SB70"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1PS79SB70"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=Vin Pin=D2-1
+Added Pin To Net: NetName=NetC34_2 Pin=D2-2
+Add Pin To Net: Unknown Pin: Pin U?-J2-14
+Add Pin To Net: Unknown Pin: Pin U?-J2-19
+Add Pin To Net: Unknown Pin: Pin U?-J3-1
+Add Pin To Net: Unknown Pin: Pin U?-J3-7
+Added Member To Class: ClassName=Charge_station Member=Component D1 RB520S30T1G
+Added Member To Class: ClassName=Charge_station Member=Component D2 RB520S30T1G
+Add Class Member: Failed to add class member : Component U? ESP32-DEVKITC-32D

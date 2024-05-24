@@ -1,0 +1,1290 @@
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C26-1
+Removed Pin From Net: NetName=GND Pin=C27-1
+Removed Pin From Net: NetName=GND Pin=C28-1
+Removed Pin From Net: NetName=GND Pin=C29-1
+Removed Pin From Net: NetName=GND Pin=C30-1
+Removed Pin From Net: NetName=GND Pin=C35-1
+Removed Pin From Net: NetName=GND Pin=Q1-1
+Removed Pin From Net: NetName=GND Pin=Q2-1
+Removed Pin From Net: NetName=GND Pin=Q3-1
+Removed Pin From Net: NetName=GND Pin=Q4-1
+Removed Pin From Net: NetName=GND Pin=Q5-1
+Removed Pin From Net: NetName=GND Pin=Q6-1
+Removed Pin From Net: NetName=GND Pin=Q7-1
+Removed Pin From Net: NetName=GND Pin=Q8-1
+Removed Pin From Net: NetName=GND Pin=Q9-1
+Removed Pin From Net: NetName=GND Pin=Q10-1
+Removed Pin From Net: NetName=GND Pin=Q11-1
+Removed Pin From Net: NetName=BAT_GND_WS1 Pin=R11-1
+Removed Pin From Net: NetName=BAT_GND_WS2 Pin=R12-1
+Removed Pin From Net: NetName=BAT_GND_WS3 Pin=R13-1
+Removed Pin From Net: NetName=BAT_GND_WS4 Pin=R14-1
+Removed Pin From Net: NetName=BAT_GND_WS5 Pin=R15-1
+Removed Pin From Net: NetName=BAT_GND_WS6 Pin=R26-1
+Removed Pin From Net: NetName=BAT_GND_WS7 Pin=R27-1
+Removed Pin From Net: NetName=BAT_GND_WS8 Pin=R28-1
+Removed Pin From Net: NetName=BAT_GND_WS9 Pin=R29-1
+Removed Pin From Net: NetName=BAT_GND_WS10 Pin=R30-1
+Removed Pin From Net: NetName=BAT_GND_MAIN Pin=R35-1
+Removed Pin From Net: NetName=NetQ1_4 Pin=U6-3
+Removed Pin From Net: NetName=GND Pin=U6-6
+Removed Pin From Net: NetName=NetQ2_4 Pin=U7-3
+Removed Pin From Net: NetName=GND Pin=U7-6
+Removed Pin From Net: NetName=NetQ3_4 Pin=U8-3
+Removed Pin From Net: NetName=GND Pin=U8-6
+Removed Pin From Net: NetName=NetQ4_4 Pin=U9-3
+Removed Pin From Net: NetName=GND Pin=U9-6
+Removed Pin From Net: NetName=NetQ5_4 Pin=U10-3
+Removed Pin From Net: NetName=GND Pin=U10-6
+Removed Pin From Net: NetName=NetQ6_4 Pin=U16-3
+Removed Pin From Net: NetName=GND Pin=U16-6
+Removed Pin From Net: NetName=NetQ7_4 Pin=U17-3
+Removed Pin From Net: NetName=GND Pin=U17-6
+Removed Pin From Net: NetName=NetQ8_4 Pin=U18-3
+Removed Pin From Net: NetName=GND Pin=U18-6
+Removed Pin From Net: NetName=NetQ9_4 Pin=U19-3
+Removed Pin From Net: NetName=GND Pin=U19-6
+Removed Pin From Net: NetName=NetQ10_4 Pin=U20-3
+Removed Pin From Net: NetName=GND Pin=U20-6
+Removed Pin From Net: NetName=NetQ11_4 Pin=U23-3
+Removed Pin From Net: NetName=GND Pin=U23-6
+Change Component DesignItemId : Designator=Q1 Old DesignItemId=FS8205 New DesignItemId=FS8205A
+Change Component DesignItemId : Designator=Q2 Old DesignItemId=FS8205 New DesignItemId=FS8205A
+Change Component DesignItemId : Designator=Q3 Old DesignItemId=FS8205 New DesignItemId=FS8205A
+Change Component DesignItemId : Designator=Q4 Old DesignItemId=FS8205 New DesignItemId=FS8205A
+Change Component DesignItemId : Designator=Q5 Old DesignItemId=FS8205 New DesignItemId=FS8205A
+Change Component DesignItemId : Designator=Q6 Old DesignItemId=FS8205 New DesignItemId=FS8205A
+Change Component DesignItemId : Designator=Q7 Old DesignItemId=FS8205 New DesignItemId=FS8205A
+Change Component DesignItemId : Designator=Q8 Old DesignItemId=FS8205 New DesignItemId=FS8205A
+Change Component DesignItemId : Designator=Q9 Old DesignItemId=FS8205 New DesignItemId=FS8205A
+Change Component DesignItemId : Designator=Q10 Old DesignItemId=FS8205 New DesignItemId=FS8205A
+Change Component DesignItemId : Designator=Q11 Old DesignItemId=FS8205 New DesignItemId=FS8205A
+Change Component Footprint: Designator=Q1 Old Footprint=SOT95P280X145-6N New Footprint=SOP65P640X120-8N
+Change Component Footprint: Designator=Q2 Old Footprint=SOT95P280X145-6N New Footprint=SOP65P640X120-8N
+Change Component Footprint: Designator=Q3 Old Footprint=SOT95P280X145-6N New Footprint=SOP65P640X120-8N
+Change Component Footprint: Designator=Q4 Old Footprint=SOT95P280X145-6N New Footprint=SOP65P640X120-8N
+Change Component Footprint: Designator=Q5 Old Footprint=SOT95P280X145-6N New Footprint=SOP65P640X120-8N
+Change Component Footprint: Designator=Q6 Old Footprint=SOT95P280X145-6N New Footprint=SOP65P640X120-8N
+Change Component Footprint: Designator=Q7 Old Footprint=SOT95P280X145-6N New Footprint=SOP65P640X120-8N
+Change Component Footprint: Designator=Q8 Old Footprint=SOT95P280X145-6N New Footprint=SOP65P640X120-8N
+Change Component Footprint: Designator=Q9 Old Footprint=SOT95P280X145-6N New Footprint=SOP65P640X120-8N
+Change Component Footprint: Designator=Q10 Old Footprint=SOT95P280X145-6N New Footprint=SOP65P640X120-8N
+Change Component Footprint: Designator=Q11 Old Footprint=SOT95P280X145-6N New Footprint=SOP65P640X120-8N
+Change Component Comment : Designator=Q1 Old Comment=FS8205 New Comment=FS8205A
+Change Component Comment : Designator=Q2 Old Comment=FS8205 New Comment=FS8205A
+Change Component Comment : Designator=Q3 Old Comment=FS8205 New Comment=FS8205A
+Change Component Comment : Designator=Q4 Old Comment=FS8205 New Comment=FS8205A
+Change Component Comment : Designator=Q5 Old Comment=FS8205 New Comment=FS8205A
+Change Component Comment : Designator=Q6 Old Comment=FS8205 New Comment=FS8205A
+Change Component Comment : Designator=Q7 Old Comment=FS8205 New Comment=FS8205A
+Change Component Comment : Designator=Q8 Old Comment=FS8205 New Comment=FS8205A
+Change Component Comment : Designator=Q9 Old Comment=FS8205 New Comment=FS8205A
+Change Component Comment : Designator=Q10 Old Comment=FS8205 New Comment=FS8205A
+Change Component Comment : Designator=Q11 Old Comment=FS8205 New Comment=FS8205A
+Change Component Designator: OldDesignator=C6 NewDesignator=C9
+Change Component Designator: OldDesignator=C7 NewDesignator=C10
+Change Component Designator: OldDesignator=C8 NewDesignator=C6
+Change Component Designator: OldDesignator=C9 NewDesignator=C7
+Change Component Designator: OldDesignator=C10 NewDesignator=C8
+Change Component Designator: OldDesignator=C11 NewDesignator=C13
+Change Component Designator: OldDesignator=C12 NewDesignator=C14
+Change Component Designator: OldDesignator=C13 NewDesignator=C15
+Change Component Designator: OldDesignator=C14 NewDesignator=C11
+Change Component Designator: OldDesignator=C15 NewDesignator=C12
+Change Component Designator: OldDesignator=D1 NewDesignator=D21
+Change Component Designator: OldDesignator=D2 NewDesignator=D22
+Change Component Designator: OldDesignator=R6 NewDesignator=R9
+Change Component Designator: OldDesignator=R7 NewDesignator=R10
+Change Component Designator: OldDesignator=R8 NewDesignator=R6
+Change Component Designator: OldDesignator=R9 NewDesignator=R7
+Change Component Designator: OldDesignator=R10 NewDesignator=R8
+Change Component Designator: OldDesignator=R11 NewDesignator=R21
+Change Component Designator: OldDesignator=R12 NewDesignator=R22
+Change Component Designator: OldDesignator=R13 NewDesignator=R23
+Change Component Designator: OldDesignator=R14 NewDesignator=R24
+Change Component Designator: OldDesignator=R15 NewDesignator=R25
+Change Component Designator: OldDesignator=R16 NewDesignator=R26
+Change Component Designator: OldDesignator=R17 NewDesignator=R27
+Change Component Designator: OldDesignator=R18 NewDesignator=R28
+Change Component Designator: OldDesignator=R19 NewDesignator=R29
+Change Component Designator: OldDesignator=R20 NewDesignator=R30
+Change Component Designator: OldDesignator=R21 NewDesignator=R31
+Change Component Designator: OldDesignator=R22 NewDesignator=R32
+Change Component Designator: OldDesignator=R23 NewDesignator=R33
+Change Component Designator: OldDesignator=R24 NewDesignator=R34
+Change Component Designator: OldDesignator=R25 NewDesignator=R35
+Change Component Designator: OldDesignator=R26 NewDesignator=R46
+Change Component Designator: OldDesignator=R27 NewDesignator=R47
+Change Component Designator: OldDesignator=R28 NewDesignator=R48
+Change Component Designator: OldDesignator=R29 NewDesignator=R49
+Change Component Designator: OldDesignator=R30 NewDesignator=R50
+Change Component Designator: OldDesignator=R31 NewDesignator=R51
+Change Component Designator: OldDesignator=R32 NewDesignator=R52
+Change Component Designator: OldDesignator=R33 NewDesignator=R53
+Change Component Designator: OldDesignator=R34 NewDesignator=R54
+Change Component Designator: OldDesignator=R35 NewDesignator=R57
+Change Component Designator: OldDesignator=U21 NewDesignator=U22
+Change Component Designator: OldDesignator=U22 NewDesignator=U21
+Change Component Description : Designator=Q1 Old Description=Dual N-Channel Enhancement Mode Power MOSFET New Description=N/A
+Change Component Description : Designator=Q2 Old Description=Dual N-Channel Enhancement Mode Power MOSFET New Description=N/A
+Change Component Description : Designator=Q3 Old Description=Dual N-Channel Enhancement Mode Power MOSFET New Description=N/A
+Change Component Description : Designator=Q4 Old Description=Dual N-Channel Enhancement Mode Power MOSFET New Description=N/A
+Change Component Description : Designator=Q5 Old Description=Dual N-Channel Enhancement Mode Power MOSFET New Description=N/A
+Change Component Description : Designator=Q6 Old Description=Dual N-Channel Enhancement Mode Power MOSFET New Description=N/A
+Change Component Description : Designator=Q7 Old Description=Dual N-Channel Enhancement Mode Power MOSFET New Description=N/A
+Change Component Description : Designator=Q8 Old Description=Dual N-Channel Enhancement Mode Power MOSFET New Description=N/A
+Change Component Description : Designator=Q9 Old Description=Dual N-Channel Enhancement Mode Power MOSFET New Description=N/A
+Change Component Description : Designator=Q10 Old Description=Dual N-Channel Enhancement Mode Power MOSFET New Description=N/A
+Change Component Description : Designator=Q11 Old Description=Dual N-Channel Enhancement Mode Power MOSFET New Description=N/A
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "SOT95P280X145-6N"; UniqueID = "\QRLRASTK" ("\QRLRASTK")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FS8205A/Fortune+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Fortune Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "FS8205A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FS8205A/Fortune+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2" ("Q2"); Footprint = "SOT95P280X145-6N"; UniqueID = "\MEKSWLOS" ("\MEKSWLOS")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FS8205A/Fortune+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Fortune Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "FS8205A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FS8205A/Fortune+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q3" ("Q3"); Footprint = "SOT95P280X145-6N"; UniqueID = "\MQQTJQDJ" ("\MQQTJQDJ")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FS8205A/Fortune+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Fortune Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "FS8205A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FS8205A/Fortune+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q4" ("Q4"); Footprint = "SOT95P280X145-6N"; UniqueID = "\YLGEBBDC" ("\YLGEBBDC")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FS8205A/Fortune+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Fortune Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "FS8205A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FS8205A/Fortune+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q5" ("Q5"); Footprint = "SOT95P280X145-6N"; UniqueID = "\TLHKFIPZ" ("\TLHKFIPZ")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FS8205A/Fortune+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Fortune Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "FS8205A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FS8205A/Fortune+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q6" ("Q6"); Footprint = "SOT95P280X145-6N"; UniqueID = "\EIOJJLLY" ("\EIOJJLLY")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FS8205A/Fortune+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Fortune Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "FS8205A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FS8205A/Fortune+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q7" ("Q7"); Footprint = "SOT95P280X145-6N"; UniqueID = "\FOHOHGVK" ("\FOHOHGVK")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FS8205A/Fortune+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Fortune Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "FS8205A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FS8205A/Fortune+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q8" ("Q8"); Footprint = "SOT95P280X145-6N"; UniqueID = "\XUXWXQCS" ("\XUXWXQCS")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FS8205A/Fortune+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Fortune Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "FS8205A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FS8205A/Fortune+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q9" ("Q9"); Footprint = "SOT95P280X145-6N"; UniqueID = "\EIIXVRXS" ("\EIIXVRXS")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FS8205A/Fortune+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Fortune Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "FS8205A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FS8205A/Fortune+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q10" ("Q10"); Footprint = "SOT95P280X145-6N"; UniqueID = "\OJQKNTTM" ("\OJQKNTTM")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FS8205A/Fortune+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Fortune Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "FS8205A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FS8205A/Fortune+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q11" ("Q11"); Footprint = "SOT95P280X145-6N"; UniqueID = "\DXGKTCJN" ("\DXGKTCJN")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FS8205A/Fortune+Semiconductor/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Fortune Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "FS8205A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FS8205A/Fortune+Semiconductor/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D1(LED_KPT-1608ZGC)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "VCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "7012X1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Visual Communications"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7012X1/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2(LED_KPT-1608ZGC)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "VCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "7012X1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Visual Communications"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7012X1/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D3(LED_KPT-1608ZGC)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "VCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "7012X1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Visual Communications"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7012X1/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D4(LED_KPT-1608ZGC)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "VCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "7012X1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Visual Communications"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7012X1/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D5(LED_KPT-1608ZGC)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "VCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "7012X1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Visual Communications"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7012X1/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D6(LED_KPT-1608ZGC)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "VCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "7012X1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Visual Communications"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7012X1/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D7(LED_KPT-1608ZGC)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "VCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "7012X1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Visual Communications"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7012X1/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D8(LED_KPT-1608ZGC)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "VCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "7012X1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Visual Communications"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7012X1/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D9(LED_KPT-1608ZGC)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "VCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "7012X1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Visual Communications"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7012X1/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D10(LED_KPT-1608ZGC)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "VCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "7012X1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Visual Communications"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7012X1/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D11(LED_KPT-1608ZGC)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "VCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "7012X1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Visual Communications"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7012X1/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D12(LED_KPT-1608ZGC)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "VCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "7012X1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Visual Communications"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7012X1/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D13(LED_KPT-1608ZGC)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "VCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "7012X1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Visual Communications"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7012X1/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D14(LED_KPT-1608ZGC)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "VCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "7012X1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Visual Communications"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7012X1/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D15(LED_KPT-1608ZGC)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "VCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "7012X1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Visual Communications"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7012X1/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D16(LED_KPT-1608ZGC)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "VCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "7012X1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Visual Communications"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7012X1/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D17(LED_KPT-1608ZGC)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "VCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "7012X1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Visual Communications"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7012X1/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D18(LED_KPT-1608ZGC)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "VCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "7012X1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Visual Communications"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7012X1/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D19(LED_KPT-1608ZGC)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "VCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "7012X1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Visual Communications"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7012X1/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D20(LED_KPT-1608ZGC)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "VCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "7012X1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Visual Communications"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7012X1/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D23(LED_KPT-1608ZGC)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "VCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "7012X1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Visual Communications"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7012X1/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D24(LED_KPT-1608ZGC)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "VCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "7012X1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Visual Communications"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/7012X1/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/7012X1/Visual+Communications/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R11(R0603)
+Add component (AddParameter): Name = "BOM"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì    RC0603FR-071K00L Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Name"; Value = "Resistors Chip SMD 0603 1% E96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Number"; Value = "10000401"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Description"; Value = "Resistor 0603 1% E96 1 kOm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_ID"; Value = "1041-289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "MANUFACTURER_URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint_Description"; Value = "Chip Resistor EIA 0603. METRIC 1608, 2-Leads, Body 1,6x0,8mm, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\CORP1\RNDlibrary\_Library\Altium_lib\Datasheet\Yageo\RC0603\PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Human_Readable"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lib_Description"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartnumber"; Value = "RC0603FR-071K00L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_Base"; Value = "458"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Range"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,00600000005215406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Range"; Value = "-55 °C to +155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TimeModification_Comp"; Value = "09.12.2011 8:18:44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 kOm"; VariantName = "[No Variations]"
+Added Component: Designator=R12(R0603)
+Add component (AddParameter): Name = "BOM"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì    RC0603FR-071K00L Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Name"; Value = "Resistors Chip SMD 0603 1% E96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Number"; Value = "10000401"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Description"; Value = "Resistor 0603 1% E96 1 kOm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_ID"; Value = "1041-289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "MANUFACTURER_URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint_Description"; Value = "Chip Resistor EIA 0603. METRIC 1608, 2-Leads, Body 1,6x0,8mm, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\CORP1\RNDlibrary\_Library\Altium_lib\Datasheet\Yageo\RC0603\PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Human_Readable"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lib_Description"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartnumber"; Value = "RC0603FR-071K00L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_Base"; Value = "458"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Range"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,00600000005215406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Range"; Value = "-55 °C to +155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TimeModification_Comp"; Value = "09.12.2011 8:18:44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 kOm"; VariantName = "[No Variations]"
+Added Component: Designator=R13(R0603)
+Add component (AddParameter): Name = "BOM"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì    RC0603FR-071K00L Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Name"; Value = "Resistors Chip SMD 0603 1% E96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Number"; Value = "10000401"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Description"; Value = "Resistor 0603 1% E96 1 kOm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_ID"; Value = "1041-289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "MANUFACTURER_URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint_Description"; Value = "Chip Resistor EIA 0603. METRIC 1608, 2-Leads, Body 1,6x0,8mm, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\CORP1\RNDlibrary\_Library\Altium_lib\Datasheet\Yageo\RC0603\PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Human_Readable"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lib_Description"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartnumber"; Value = "RC0603FR-071K00L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_Base"; Value = "458"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Range"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,00600000005215406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Range"; Value = "-55 °C to +155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TimeModification_Comp"; Value = "09.12.2011 8:18:44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 kOm"; VariantName = "[No Variations]"
+Added Component: Designator=R14(R0603)
+Add component (AddParameter): Name = "BOM"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì    RC0603FR-071K00L Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Name"; Value = "Resistors Chip SMD 0603 1% E96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Number"; Value = "10000401"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Description"; Value = "Resistor 0603 1% E96 1 kOm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_ID"; Value = "1041-289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "MANUFACTURER_URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint_Description"; Value = "Chip Resistor EIA 0603. METRIC 1608, 2-Leads, Body 1,6x0,8mm, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\CORP1\RNDlibrary\_Library\Altium_lib\Datasheet\Yageo\RC0603\PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Human_Readable"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lib_Description"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartnumber"; Value = "RC0603FR-071K00L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_Base"; Value = "458"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Range"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,00600000005215406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Range"; Value = "-55 °C to +155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TimeModification_Comp"; Value = "09.12.2011 8:18:44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 kOm"; VariantName = "[No Variations]"
+Added Component: Designator=R15(R0603)
+Add component (AddParameter): Name = "BOM"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì    RC0603FR-071K00L Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Name"; Value = "Resistors Chip SMD 0603 1% E96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Number"; Value = "10000401"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Description"; Value = "Resistor 0603 1% E96 1 kOm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_ID"; Value = "1041-289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "MANUFACTURER_URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint_Description"; Value = "Chip Resistor EIA 0603. METRIC 1608, 2-Leads, Body 1,6x0,8mm, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\CORP1\RNDlibrary\_Library\Altium_lib\Datasheet\Yageo\RC0603\PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Human_Readable"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lib_Description"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartnumber"; Value = "RC0603FR-071K00L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_Base"; Value = "458"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Range"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,00600000005215406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Range"; Value = "-55 °C to +155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TimeModification_Comp"; Value = "09.12.2011 8:18:44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 kOm"; VariantName = "[No Variations]"
+Added Component: Designator=R16(R0603)
+Add component (AddParameter): Name = "BOM"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì    RC0603FR-071K00L Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Name"; Value = "Resistors Chip SMD 0603 1% E96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Number"; Value = "10000401"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Description"; Value = "Resistor 0603 1% E96 1 kOm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_ID"; Value = "1041-289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "MANUFACTURER_URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint_Description"; Value = "Chip Resistor EIA 0603. METRIC 1608, 2-Leads, Body 1,6x0,8mm, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\CORP1\RNDlibrary\_Library\Altium_lib\Datasheet\Yageo\RC0603\PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Human_Readable"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lib_Description"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartnumber"; Value = "RC0603FR-071K00L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_Base"; Value = "458"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Range"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,00600000005215406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Range"; Value = "-55 °C to +155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TimeModification_Comp"; Value = "09.12.2011 8:18:44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 kOm"; VariantName = "[No Variations]"
+Added Component: Designator=R17(R0603)
+Add component (AddParameter): Name = "BOM"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì    RC0603FR-071K00L Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Name"; Value = "Resistors Chip SMD 0603 1% E96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Number"; Value = "10000401"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Description"; Value = "Resistor 0603 1% E96 1 kOm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_ID"; Value = "1041-289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "MANUFACTURER_URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint_Description"; Value = "Chip Resistor EIA 0603. METRIC 1608, 2-Leads, Body 1,6x0,8mm, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\CORP1\RNDlibrary\_Library\Altium_lib\Datasheet\Yageo\RC0603\PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Human_Readable"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lib_Description"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartnumber"; Value = "RC0603FR-071K00L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_Base"; Value = "458"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Range"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,00600000005215406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Range"; Value = "-55 °C to +155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TimeModification_Comp"; Value = "09.12.2011 8:18:44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 kOm"; VariantName = "[No Variations]"
+Added Component: Designator=R18(R0603)
+Add component (AddParameter): Name = "BOM"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì    RC0603FR-071K00L Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Name"; Value = "Resistors Chip SMD 0603 1% E96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Number"; Value = "10000401"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Description"; Value = "Resistor 0603 1% E96 1 kOm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_ID"; Value = "1041-289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "MANUFACTURER_URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint_Description"; Value = "Chip Resistor EIA 0603. METRIC 1608, 2-Leads, Body 1,6x0,8mm, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\CORP1\RNDlibrary\_Library\Altium_lib\Datasheet\Yageo\RC0603\PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Human_Readable"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lib_Description"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartnumber"; Value = "RC0603FR-071K00L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_Base"; Value = "458"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Range"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,00600000005215406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Range"; Value = "-55 °C to +155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TimeModification_Comp"; Value = "09.12.2011 8:18:44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 kOm"; VariantName = "[No Variations]"
+Added Component: Designator=R19(R0603)
+Add component (AddParameter): Name = "BOM"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì    RC0603FR-071K00L Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Name"; Value = "Resistors Chip SMD 0603 1% E96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Number"; Value = "10000401"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Description"; Value = "Resistor 0603 1% E96 1 kOm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_ID"; Value = "1041-289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "MANUFACTURER_URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint_Description"; Value = "Chip Resistor EIA 0603. METRIC 1608, 2-Leads, Body 1,6x0,8mm, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\CORP1\RNDlibrary\_Library\Altium_lib\Datasheet\Yageo\RC0603\PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Human_Readable"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lib_Description"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartnumber"; Value = "RC0603FR-071K00L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_Base"; Value = "458"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Range"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,00600000005215406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Range"; Value = "-55 °C to +155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TimeModification_Comp"; Value = "09.12.2011 8:18:44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 kOm"; VariantName = "[No Variations]"
+Added Component: Designator=R20(R0603)
+Add component (AddParameter): Name = "BOM"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì    RC0603FR-071K00L Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Name"; Value = "Resistors Chip SMD 0603 1% E96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Number"; Value = "10000401"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Description"; Value = "Resistor 0603 1% E96 1 kOm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_ID"; Value = "1041-289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "MANUFACTURER_URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint_Description"; Value = "Chip Resistor EIA 0603. METRIC 1608, 2-Leads, Body 1,6x0,8mm, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\CORP1\RNDlibrary\_Library\Altium_lib\Datasheet\Yageo\RC0603\PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Human_Readable"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lib_Description"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartnumber"; Value = "RC0603FR-071K00L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_Base"; Value = "458"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Range"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,00600000005215406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Range"; Value = "-55 °C to +155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TimeModification_Comp"; Value = "09.12.2011 8:18:44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 kOm"; VariantName = "[No Variations]"
+Added Component: Designator=R36(R0603)
+Add component (AddParameter): Name = "BOM"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì    RC0603FR-071K00L Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Name"; Value = "Resistors Chip SMD 0603 1% E96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Number"; Value = "10000401"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Description"; Value = "Resistor 0603 1% E96 1 kOm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_ID"; Value = "1041-289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "MANUFACTURER_URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint_Description"; Value = "Chip Resistor EIA 0603. METRIC 1608, 2-Leads, Body 1,6x0,8mm, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\CORP1\RNDlibrary\_Library\Altium_lib\Datasheet\Yageo\RC0603\PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Human_Readable"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lib_Description"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartnumber"; Value = "RC0603FR-071K00L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_Base"; Value = "458"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Range"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,00600000005215406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Range"; Value = "-55 °C to +155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TimeModification_Comp"; Value = "09.12.2011 8:18:44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 kOm"; VariantName = "[No Variations]"
+Added Component: Designator=R37(R0603)
+Add component (AddParameter): Name = "BOM"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì    RC0603FR-071K00L Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Name"; Value = "Resistors Chip SMD 0603 1% E96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Number"; Value = "10000401"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Description"; Value = "Resistor 0603 1% E96 1 kOm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_ID"; Value = "1041-289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "MANUFACTURER_URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint_Description"; Value = "Chip Resistor EIA 0603. METRIC 1608, 2-Leads, Body 1,6x0,8mm, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\CORP1\RNDlibrary\_Library\Altium_lib\Datasheet\Yageo\RC0603\PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Human_Readable"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lib_Description"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartnumber"; Value = "RC0603FR-071K00L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_Base"; Value = "458"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Range"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,00600000005215406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Range"; Value = "-55 °C to +155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TimeModification_Comp"; Value = "09.12.2011 8:18:44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 kOm"; VariantName = "[No Variations]"
+Added Component: Designator=R38(R0603)
+Add component (AddParameter): Name = "BOM"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì    RC0603FR-071K00L Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Name"; Value = "Resistors Chip SMD 0603 1% E96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Number"; Value = "10000401"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Description"; Value = "Resistor 0603 1% E96 1 kOm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_ID"; Value = "1041-289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "MANUFACTURER_URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint_Description"; Value = "Chip Resistor EIA 0603. METRIC 1608, 2-Leads, Body 1,6x0,8mm, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\CORP1\RNDlibrary\_Library\Altium_lib\Datasheet\Yageo\RC0603\PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Human_Readable"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lib_Description"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartnumber"; Value = "RC0603FR-071K00L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_Base"; Value = "458"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Range"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,00600000005215406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Range"; Value = "-55 °C to +155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TimeModification_Comp"; Value = "09.12.2011 8:18:44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 kOm"; VariantName = "[No Variations]"
+Added Component: Designator=R39(R0603)
+Add component (AddParameter): Name = "BOM"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì    RC0603FR-071K00L Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Name"; Value = "Resistors Chip SMD 0603 1% E96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Number"; Value = "10000401"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Description"; Value = "Resistor 0603 1% E96 1 kOm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_ID"; Value = "1041-289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "MANUFACTURER_URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint_Description"; Value = "Chip Resistor EIA 0603. METRIC 1608, 2-Leads, Body 1,6x0,8mm, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\CORP1\RNDlibrary\_Library\Altium_lib\Datasheet\Yageo\RC0603\PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Human_Readable"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lib_Description"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartnumber"; Value = "RC0603FR-071K00L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_Base"; Value = "458"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Range"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,00600000005215406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Range"; Value = "-55 °C to +155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TimeModification_Comp"; Value = "09.12.2011 8:18:44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 kOm"; VariantName = "[No Variations]"
+Added Component: Designator=R40(R0603)
+Add component (AddParameter): Name = "BOM"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì    RC0603FR-071K00L Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Name"; Value = "Resistors Chip SMD 0603 1% E96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Number"; Value = "10000401"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Description"; Value = "Resistor 0603 1% E96 1 kOm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_ID"; Value = "1041-289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "MANUFACTURER_URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint_Description"; Value = "Chip Resistor EIA 0603. METRIC 1608, 2-Leads, Body 1,6x0,8mm, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\CORP1\RNDlibrary\_Library\Altium_lib\Datasheet\Yageo\RC0603\PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Human_Readable"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lib_Description"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartnumber"; Value = "RC0603FR-071K00L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_Base"; Value = "458"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Range"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,00600000005215406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Range"; Value = "-55 °C to +155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TimeModification_Comp"; Value = "09.12.2011 8:18:44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 kOm"; VariantName = "[No Variations]"
+Added Component: Designator=R41(R0603)
+Add component (AddParameter): Name = "BOM"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì    RC0603FR-071K00L Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Name"; Value = "Resistors Chip SMD 0603 1% E96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Number"; Value = "10000401"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Description"; Value = "Resistor 0603 1% E96 1 kOm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_ID"; Value = "1041-289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "MANUFACTURER_URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint_Description"; Value = "Chip Resistor EIA 0603. METRIC 1608, 2-Leads, Body 1,6x0,8mm, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\CORP1\RNDlibrary\_Library\Altium_lib\Datasheet\Yageo\RC0603\PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Human_Readable"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lib_Description"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartnumber"; Value = "RC0603FR-071K00L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_Base"; Value = "458"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Range"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,00600000005215406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Range"; Value = "-55 °C to +155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TimeModification_Comp"; Value = "09.12.2011 8:18:44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 kOm"; VariantName = "[No Variations]"
+Added Component: Designator=R42(R0603)
+Add component (AddParameter): Name = "BOM"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì    RC0603FR-071K00L Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Name"; Value = "Resistors Chip SMD 0603 1% E96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Number"; Value = "10000401"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Description"; Value = "Resistor 0603 1% E96 1 kOm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_ID"; Value = "1041-289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "MANUFACTURER_URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint_Description"; Value = "Chip Resistor EIA 0603. METRIC 1608, 2-Leads, Body 1,6x0,8mm, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\CORP1\RNDlibrary\_Library\Altium_lib\Datasheet\Yageo\RC0603\PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Human_Readable"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lib_Description"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartnumber"; Value = "RC0603FR-071K00L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_Base"; Value = "458"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Range"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,00600000005215406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Range"; Value = "-55 °C to +155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TimeModification_Comp"; Value = "09.12.2011 8:18:44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 kOm"; VariantName = "[No Variations]"
+Added Component: Designator=R43(R0603)
+Add component (AddParameter): Name = "BOM"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì    RC0603FR-071K00L Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Name"; Value = "Resistors Chip SMD 0603 1% E96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Number"; Value = "10000401"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Description"; Value = "Resistor 0603 1% E96 1 kOm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_ID"; Value = "1041-289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "MANUFACTURER_URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint_Description"; Value = "Chip Resistor EIA 0603. METRIC 1608, 2-Leads, Body 1,6x0,8mm, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\CORP1\RNDlibrary\_Library\Altium_lib\Datasheet\Yageo\RC0603\PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Human_Readable"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lib_Description"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartnumber"; Value = "RC0603FR-071K00L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_Base"; Value = "458"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Range"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,00600000005215406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Range"; Value = "-55 °C to +155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TimeModification_Comp"; Value = "09.12.2011 8:18:44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 kOm"; VariantName = "[No Variations]"
+Added Component: Designator=R44(R0603)
+Add component (AddParameter): Name = "BOM"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì    RC0603FR-071K00L Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Name"; Value = "Resistors Chip SMD 0603 1% E96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Number"; Value = "10000401"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Description"; Value = "Resistor 0603 1% E96 1 kOm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_ID"; Value = "1041-289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "MANUFACTURER_URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint_Description"; Value = "Chip Resistor EIA 0603. METRIC 1608, 2-Leads, Body 1,6x0,8mm, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\CORP1\RNDlibrary\_Library\Altium_lib\Datasheet\Yageo\RC0603\PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Human_Readable"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lib_Description"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartnumber"; Value = "RC0603FR-071K00L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_Base"; Value = "458"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Range"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,00600000005215406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Range"; Value = "-55 °C to +155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TimeModification_Comp"; Value = "09.12.2011 8:18:44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 kOm"; VariantName = "[No Variations]"
+Added Component: Designator=R45(R0603)
+Add component (AddParameter): Name = "BOM"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì    RC0603FR-071K00L Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Name"; Value = "Resistors Chip SMD 0603 1% E96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Number"; Value = "10000401"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Description"; Value = "Resistor 0603 1% E96 1 kOm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_ID"; Value = "1041-289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "MANUFACTURER_URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint_Description"; Value = "Chip Resistor EIA 0603. METRIC 1608, 2-Leads, Body 1,6x0,8mm, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\CORP1\RNDlibrary\_Library\Altium_lib\Datasheet\Yageo\RC0603\PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Human_Readable"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lib_Description"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartnumber"; Value = "RC0603FR-071K00L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_Base"; Value = "458"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Range"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,00600000005215406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Range"; Value = "-55 °C to +155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TimeModification_Comp"; Value = "09.12.2011 8:18:44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 kOm"; VariantName = "[No Variations]"
+Added Component: Designator=R55(R0603)
+Add component (AddParameter): Name = "BOM"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì    RC0603FR-071K00L Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Name"; Value = "Resistors Chip SMD 0603 1% E96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Number"; Value = "10000401"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Description"; Value = "Resistor 0603 1% E96 1 kOm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_ID"; Value = "1041-289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "MANUFACTURER_URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint_Description"; Value = "Chip Resistor EIA 0603. METRIC 1608, 2-Leads, Body 1,6x0,8mm, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\CORP1\RNDlibrary\_Library\Altium_lib\Datasheet\Yageo\RC0603\PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Human_Readable"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lib_Description"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartnumber"; Value = "RC0603FR-071K00L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_Base"; Value = "458"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Range"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,00600000005215406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Range"; Value = "-55 °C to +155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TimeModification_Comp"; Value = "09.12.2011 8:18:44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 kOm"; VariantName = "[No Variations]"
+Added Component: Designator=R56(R0603)
+Add component (AddParameter): Name = "BOM"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì    RC0603FR-071K00L Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Name"; Value = "Resistors Chip SMD 0603 1% E96"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Class_Number"; Value = "10000401"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_Description"; Value = "Resistor 0603 1% E96 1 kOm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Comp_ID"; Value = "1041-289"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "MANUFACTURER_URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint_Description"; Value = "Chip Resistor EIA 0603. METRIC 1608, 2-Leads, Body 1,6x0,8mm, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\CORP1\RNDlibrary\_Library\Altium_lib\Datasheet\Yageo\RC0603\PYu-RC0603_51_RoHS_L_4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Human_Readable"; Value = "Ðåçèñòîð 0603 1% E96 1 êÎì"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lib_Description"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPartnumber"; Value = "RC0603FR-071K00L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_Base"; Value = "458"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power_Range"; Value = "0.1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,00600000005215406"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp_Range"; Value = "-55 °C to +155 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TimeModification_Comp"; Value = "09.12.2011 8:18:44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 kOm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BAT_GND_WS4 Pin=C11-1
+Added Pin To Net: NetName=BAT_GND_WS5 Pin=C12-1
+Added Pin To Net: NetName=BAT_GND_WS1 Pin=C13-1
+Added Pin To Net: NetName=BAT_GND_WS2 Pin=C14-1
+Added Pin To Net: NetName=BAT_GND_WS3 Pin=C15-1
+Added Pin To Net: NetName=BAT_GND_WS6 Pin=C26-1
+Added Pin To Net: NetName=BAT_GND_WS7 Pin=C27-1
+Added Pin To Net: NetName=BAT_GND_WS8 Pin=C28-1
+Added Pin To Net: NetName=BAT_GND_WS9 Pin=C29-1
+Added Pin To Net: NetName=BAT_GND_WS10 Pin=C30-1
+Added Pin To Net: NetName=BAT_GND_MAIN Pin=C35-1
+Added Pin To Net: NetName=5V Pin=D1-A
+Added Pin To Net: NetName=5V Pin=D2-A
+Added Pin To Net: NetName=5V Pin=D3-A
+Added Pin To Net: NetName=5V Pin=D4-A
+Added Pin To Net: NetName=5V Pin=D5-A
+Added Pin To Net: NetName=5V Pin=D6-A
+Added Pin To Net: NetName=5V Pin=D7-A
+Added Pin To Net: NetName=5V Pin=D8-A
+Added Pin To Net: NetName=5V Pin=D9-A
+Added Pin To Net: NetName=5V Pin=D10-A
+Added Pin To Net: NetName=5V Pin=D11-A
+Added Pin To Net: NetName=5V Pin=D12-A
+Added Pin To Net: NetName=5V Pin=D13-A
+Added Pin To Net: NetName=5V Pin=D14-A
+Added Pin To Net: NetName=5V Pin=D15-A
+Added Pin To Net: NetName=5V Pin=D16-A
+Added Pin To Net: NetName=5V Pin=D17-A
+Added Pin To Net: NetName=5V Pin=D18-A
+Added Pin To Net: NetName=5V Pin=D19-A
+Added Pin To Net: NetName=5V Pin=D20-A
+Added Pin To Net: NetName=Vin Pin=D23-A
+Added Pin To Net: NetName=Vin Pin=D24-A
+Added Pin To Net: NetName=BAT_GND_WS1 Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q1-6
+Added Pin To Net: NetName=GND Pin=Q1-7
+Added Pin To Net: NetName=BAT_GND_WS2 Pin=Q2-2
+Added Pin To Net: NetName=GND Pin=Q2-6
+Added Pin To Net: NetName=GND Pin=Q2-7
+Added Pin To Net: NetName=BAT_GND_WS3 Pin=Q3-2
+Added Pin To Net: NetName=GND Pin=Q3-6
+Added Pin To Net: NetName=GND Pin=Q3-7
+Added Pin To Net: NetName=BAT_GND_WS4 Pin=Q4-2
+Added Pin To Net: NetName=GND Pin=Q4-6
+Added Pin To Net: NetName=GND Pin=Q4-7
+Added Pin To Net: NetName=BAT_GND_WS5 Pin=Q5-2
+Added Pin To Net: NetName=GND Pin=Q5-6
+Added Pin To Net: NetName=GND Pin=Q5-7
+Added Pin To Net: NetName=BAT_GND_WS6 Pin=Q6-2
+Added Pin To Net: NetName=GND Pin=Q6-6
+Added Pin To Net: NetName=GND Pin=Q6-7
+Added Pin To Net: NetName=BAT_GND_WS7 Pin=Q7-2
+Added Pin To Net: NetName=GND Pin=Q7-6
+Added Pin To Net: NetName=GND Pin=Q7-7
+Added Pin To Net: NetName=BAT_GND_WS8 Pin=Q8-2
+Added Pin To Net: NetName=GND Pin=Q8-6
+Added Pin To Net: NetName=GND Pin=Q8-7
+Added Pin To Net: NetName=BAT_GND_WS9 Pin=Q9-2
+Added Pin To Net: NetName=GND Pin=Q9-6
+Added Pin To Net: NetName=GND Pin=Q9-7
+Added Pin To Net: NetName=BAT_GND_WS10 Pin=Q10-2
+Added Pin To Net: NetName=GND Pin=Q10-6
+Added Pin To Net: NetName=GND Pin=Q10-7
+Added Pin To Net: NetName=BAT_GND_MAIN Pin=Q11-2
+Added Pin To Net: NetName=GND Pin=Q11-6
+Added Pin To Net: NetName=GND Pin=Q11-7
+Added Pin To Net: NetName=GND Pin=R21-1
+Added Pin To Net: NetName=GND Pin=R22-1
+Added Pin To Net: NetName=GND Pin=R23-1
+Added Pin To Net: NetName=GND Pin=R24-1
+Added Pin To Net: NetName=GND Pin=R25-1
+Added Pin To Net: NetName=GND Pin=R46-1
+Added Pin To Net: NetName=GND Pin=R47-1
+Added Pin To Net: NetName=GND Pin=R48-1
+Added Pin To Net: NetName=GND Pin=R49-1
+Added Pin To Net: NetName=GND Pin=R50-1
+Added Pin To Net: NetName=GND Pin=R57-1
+Added Pin To Net: NetName=NetQ1_4 Pin=U6-1
+Added Pin To Net: NetName=BAT_GND_WS1 Pin=U6-6
+Added Pin To Net: NetName=NetQ2_4 Pin=U7-1
+Added Pin To Net: NetName=BAT_GND_WS2 Pin=U7-6
+Added Pin To Net: NetName=NetQ3_4 Pin=U8-1
+Added Pin To Net: NetName=BAT_GND_WS3 Pin=U8-6
+Added Pin To Net: NetName=NetQ4_4 Pin=U9-1
+Added Pin To Net: NetName=BAT_GND_WS4 Pin=U9-6
+Added Pin To Net: NetName=NetQ5_4 Pin=U10-1
+Added Pin To Net: NetName=BAT_GND_WS5 Pin=U10-6
+Added Pin To Net: NetName=NetQ6_4 Pin=U16-1
+Added Pin To Net: NetName=BAT_GND_WS6 Pin=U16-6
+Added Pin To Net: NetName=NetQ7_4 Pin=U17-1
+Added Pin To Net: NetName=BAT_GND_WS7 Pin=U17-6
+Added Pin To Net: NetName=NetQ8_4 Pin=U18-1
+Added Pin To Net: NetName=BAT_GND_WS8 Pin=U18-6
+Added Pin To Net: NetName=NetQ9_4 Pin=U19-1
+Added Pin To Net: NetName=BAT_GND_WS9 Pin=U19-6
+Added Pin To Net: NetName=NetQ10_4 Pin=U20-1
+Added Pin To Net: NetName=BAT_GND_WS10 Pin=U20-6
+Added Pin To Net: NetName=NetQ11_4 Pin=U23-1
+Added Pin To Net: NetName=BAT_GND_MAIN Pin=U23-6
+Change Net Name : Old Net Name=NetC11_2 New Net Name=NetC13_2
+Change Net Name : Old Net Name=NetC12_2 New Net Name=NetC14_2
+Change Net Name : Old Net Name=NetC13_2 New Net Name=NetC15_2
+Change Net Name : Old Net Name=NetC14_2 New Net Name=NetC11_2
+Change Net Name : Old Net Name=NetC15_2 New Net Name=NetC12_2
+Change Net Name : Old Net Name=NetD1_2 New Net Name=NetD21_2
+Change Net Name : Old Net Name=NetR11_2 New Net Name=NetR21_2
+Change Net Name : Old Net Name=NetR12_2 New Net Name=NetR22_2
+Change Net Name : Old Net Name=NetR13_2 New Net Name=NetR23_2
+Change Net Name : Old Net Name=NetR14_2 New Net Name=NetR24_2
+Change Net Name : Old Net Name=NetR15_2 New Net Name=NetR25_2
+Change Net Name : Old Net Name=NetR16_2 New Net Name=NetR26_2
+Change Net Name : Old Net Name=NetR17_2 New Net Name=NetR27_2
+Change Net Name : Old Net Name=NetR18_2 New Net Name=NetR28_2
+Change Net Name : Old Net Name=NetR19_2 New Net Name=NetR29_2
+Change Net Name : Old Net Name=NetR20_2 New Net Name=NetR30_2
+Change Net Name : Old Net Name=NetR26_2 New Net Name=NetR46_2
+Change Net Name : Old Net Name=NetR27_2 New Net Name=NetR47_2
+Change Net Name : Old Net Name=NetR28_2 New Net Name=NetR48_2
+Change Net Name : Old Net Name=NetR29_2 New Net Name=NetR49_2
+Change Net Name : Old Net Name=NetR30_2 New Net Name=NetR50_2
+Change Net Name : Old Net Name=NetR31_2 New Net Name=NetR51_2
+Change Net Name : Old Net Name=NetR32_1 New Net Name=NetR52_1
+Change Net Name : Old Net Name=NetR35_2 New Net Name=NetR57_2
+Added Pin To Net: NetName=CHRG_1 Pin=R12-1
+Added Pin To Net: NetName=CHRG_1 Pin=U1-7
+Added Net: Name=CHRG_1
+Added Pin To Net: NetName=CHRG_2 Pin=R14-1
+Added Pin To Net: NetName=CHRG_2 Pin=U2-7
+Added Net: Name=CHRG_2
+Added Pin To Net: NetName=CHRG_3 Pin=R16-1
+Added Pin To Net: NetName=CHRG_3 Pin=U3-7
+Added Net: Name=CHRG_3
+Added Pin To Net: NetName=CHRG_4 Pin=R18-1
+Added Pin To Net: NetName=CHRG_4 Pin=U4-7
+Added Net: Name=CHRG_4
+Added Pin To Net: NetName=CHRG_5 Pin=R20-1
+Added Pin To Net: NetName=CHRG_5 Pin=U5-7
+Added Net: Name=CHRG_5
+Added Pin To Net: NetName=CHRG_6 Pin=R37-1
+Added Pin To Net: NetName=CHRG_6 Pin=U11-7
+Added Net: Name=CHRG_6
+Added Pin To Net: NetName=CHRG_7 Pin=R39-1
+Added Pin To Net: NetName=CHRG_7 Pin=U12-7
+Added Net: Name=CHRG_7
+Added Pin To Net: NetName=CHRG_8 Pin=R41-1
+Added Pin To Net: NetName=CHRG_8 Pin=U13-7
+Added Net: Name=CHRG_8
+Added Pin To Net: NetName=CHRG_9 Pin=R43-1
+Added Pin To Net: NetName=CHRG_9 Pin=U14-7
+Added Net: Name=CHRG_9
+Added Pin To Net: NetName=CHRG_10 Pin=R45-1
+Added Pin To Net: NetName=CHRG_10 Pin=U15-7
+Added Net: Name=CHRG_10
+Added Pin To Net: NetName=CHRG_M Pin=R56-1
+Added Pin To Net: NetName=CHRG_M Pin=U21-7
+Added Net: Name=CHRG_M
+Added Pin To Net: NetName=NetD1_C Pin=D1-C
+Added Pin To Net: NetName=NetD1_C Pin=R11-2
+Added Net: Name=NetD1_C
+Added Pin To Net: NetName=NetD2_C Pin=D2-C
+Added Pin To Net: NetName=NetD2_C Pin=R13-2
+Added Net: Name=NetD2_C
+Added Pin To Net: NetName=NetD3_C Pin=D3-C
+Added Pin To Net: NetName=NetD3_C Pin=R15-2
+Added Net: Name=NetD3_C
+Added Pin To Net: NetName=NetD4_C Pin=D4-C
+Added Pin To Net: NetName=NetD4_C Pin=R17-2
+Added Net: Name=NetD4_C
+Added Pin To Net: NetName=NetD5_C Pin=D5-C
+Added Pin To Net: NetName=NetD5_C Pin=R19-2
+Added Net: Name=NetD5_C
+Added Pin To Net: NetName=NetD6_C Pin=D6-C
+Added Pin To Net: NetName=NetD6_C Pin=R12-2
+Added Net: Name=NetD6_C
+Added Pin To Net: NetName=NetD7_C Pin=D7-C
+Added Pin To Net: NetName=NetD7_C Pin=R14-2
+Added Net: Name=NetD7_C
+Added Pin To Net: NetName=NetD8_C Pin=D8-C
+Added Pin To Net: NetName=NetD8_C Pin=R16-2
+Added Net: Name=NetD8_C
+Added Pin To Net: NetName=NetD9_C Pin=D9-C
+Added Pin To Net: NetName=NetD9_C Pin=R18-2
+Added Net: Name=NetD9_C
+Added Pin To Net: NetName=NetD10_C Pin=D10-C
+Added Pin To Net: NetName=NetD10_C Pin=R20-2
+Added Net: Name=NetD10_C
+Added Pin To Net: NetName=NetD11_C Pin=D11-C
+Added Pin To Net: NetName=NetD11_C Pin=R36-2
+Added Net: Name=NetD11_C
+Added Pin To Net: NetName=NetD12_C Pin=D12-C
+Added Pin To Net: NetName=NetD12_C Pin=R38-2
+Added Net: Name=NetD12_C
+Added Pin To Net: NetName=NetD13_C Pin=D13-C
+Added Pin To Net: NetName=NetD13_C Pin=R40-2
+Added Net: Name=NetD13_C
+Added Pin To Net: NetName=NetD14_C Pin=D14-C
+Added Pin To Net: NetName=NetD14_C Pin=R42-2
+Added Net: Name=NetD14_C
+Added Pin To Net: NetName=NetD15_C Pin=D15-C
+Added Pin To Net: NetName=NetD15_C Pin=R44-2
+Added Net: Name=NetD15_C
+Added Pin To Net: NetName=NetD16_C Pin=D16-C
+Added Pin To Net: NetName=NetD16_C Pin=R37-2
+Added Net: Name=NetD16_C
+Added Pin To Net: NetName=NetD17_C Pin=D17-C
+Added Pin To Net: NetName=NetD17_C Pin=R39-2
+Added Net: Name=NetD17_C
+Added Pin To Net: NetName=NetD18_C Pin=D18-C
+Added Pin To Net: NetName=NetD18_C Pin=R41-2
+Added Net: Name=NetD18_C
+Added Pin To Net: NetName=NetD19_C Pin=D19-C
+Added Pin To Net: NetName=NetD19_C Pin=R43-2
+Added Net: Name=NetD19_C
+Added Pin To Net: NetName=NetD20_C Pin=D20-C
+Added Pin To Net: NetName=NetD20_C Pin=R45-2
+Added Net: Name=NetD20_C
+Added Pin To Net: NetName=NetD23_C Pin=D23-C
+Added Pin To Net: NetName=NetD23_C Pin=R55-2
+Added Net: Name=NetD23_C
+Added Pin To Net: NetName=NetD24_C Pin=D24-C
+Added Pin To Net: NetName=NetD24_C Pin=R56-2
+Added Net: Name=NetD24_C
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-8
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ1_5 Pin=Q1-5
+Added Pin To Net: NetName=NetQ1_5 Pin=U6-3
+Added Net: Name=NetQ1_5
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-8
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ2_5 Pin=Q2-5
+Added Pin To Net: NetName=NetQ2_5 Pin=U7-3
+Added Net: Name=NetQ2_5
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-8
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetQ3_5 Pin=Q3-5
+Added Pin To Net: NetName=NetQ3_5 Pin=U8-3
+Added Net: Name=NetQ3_5
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-8
+Added Net: Name=NetQ4_1
+Added Pin To Net: NetName=NetQ4_5 Pin=Q4-5
+Added Pin To Net: NetName=NetQ4_5 Pin=U9-3
+Added Net: Name=NetQ4_5
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-8
+Added Net: Name=NetQ5_1
+Added Pin To Net: NetName=NetQ5_5 Pin=Q5-5
+Added Pin To Net: NetName=NetQ5_5 Pin=U10-3
+Added Net: Name=NetQ5_5
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-8
+Added Net: Name=NetQ6_1
+Added Pin To Net: NetName=NetQ6_5 Pin=Q6-5
+Added Pin To Net: NetName=NetQ6_5 Pin=U16-3
+Added Net: Name=NetQ6_5
+Added Pin To Net: NetName=NetQ7_1 Pin=Q7-1
+Added Pin To Net: NetName=NetQ7_1 Pin=Q7-8
+Added Net: Name=NetQ7_1
+Added Pin To Net: NetName=NetQ7_5 Pin=Q7-5
+Added Pin To Net: NetName=NetQ7_5 Pin=U17-3
+Added Net: Name=NetQ7_5
+Added Pin To Net: NetName=NetQ8_1 Pin=Q8-1
+Added Pin To Net: NetName=NetQ8_1 Pin=Q8-8
+Added Net: Name=NetQ8_1
+Added Pin To Net: NetName=NetQ8_5 Pin=Q8-5
+Added Pin To Net: NetName=NetQ8_5 Pin=U18-3
+Added Net: Name=NetQ8_5
+Added Pin To Net: NetName=NetQ9_1 Pin=Q9-1
+Added Pin To Net: NetName=NetQ9_1 Pin=Q9-8
+Added Net: Name=NetQ9_1
+Added Pin To Net: NetName=NetQ9_5 Pin=Q9-5
+Added Pin To Net: NetName=NetQ9_5 Pin=U19-3
+Added Net: Name=NetQ9_5
+Added Pin To Net: NetName=NetQ10_1 Pin=Q10-1
+Added Pin To Net: NetName=NetQ10_1 Pin=Q10-8
+Added Net: Name=NetQ10_1
+Added Pin To Net: NetName=NetQ10_5 Pin=Q10-5
+Added Pin To Net: NetName=NetQ10_5 Pin=U20-3
+Added Net: Name=NetQ10_5
+Added Pin To Net: NetName=NetQ11_1 Pin=Q11-1
+Added Pin To Net: NetName=NetQ11_1 Pin=Q11-8
+Added Net: Name=NetQ11_1
+Added Pin To Net: NetName=NetQ11_5 Pin=Q11-5
+Added Pin To Net: NetName=NetQ11_5 Pin=U23-3
+Added Net: Name=NetQ11_5
+Added Pin To Net: NetName=STDBY_1 Pin=R11-1
+Added Pin To Net: NetName=STDBY_1 Pin=U1-6
+Added Net: Name=STDBY_1
+Added Pin To Net: NetName=STDBY_2 Pin=R13-1
+Added Pin To Net: NetName=STDBY_2 Pin=U2-6
+Added Net: Name=STDBY_2
+Added Pin To Net: NetName=STDBY_3 Pin=R15-1
+Added Pin To Net: NetName=STDBY_3 Pin=U3-6
+Added Net: Name=STDBY_3
+Added Pin To Net: NetName=STDBY_4 Pin=R17-1
+Added Pin To Net: NetName=STDBY_4 Pin=U4-6
+Added Net: Name=STDBY_4
+Added Pin To Net: NetName=STDBY_5 Pin=R19-1
+Added Pin To Net: NetName=STDBY_5 Pin=U5-6
+Added Net: Name=STDBY_5
+Added Pin To Net: NetName=STDBY_6 Pin=R36-1
+Added Pin To Net: NetName=STDBY_6 Pin=U11-6
+Added Net: Name=STDBY_6
+Added Pin To Net: NetName=STDBY_7 Pin=R38-1
+Added Pin To Net: NetName=STDBY_7 Pin=U12-6
+Added Net: Name=STDBY_7
+Added Pin To Net: NetName=STDBY_8 Pin=R40-1
+Added Pin To Net: NetName=STDBY_8 Pin=U13-6
+Added Net: Name=STDBY_8
+Added Pin To Net: NetName=STDBY_9 Pin=R42-1
+Added Pin To Net: NetName=STDBY_9 Pin=U14-6
+Added Net: Name=STDBY_9
+Added Pin To Net: NetName=STDBY_10 Pin=R44-1
+Added Pin To Net: NetName=STDBY_10 Pin=U15-6
+Added Net: Name=STDBY_10
+Added Pin To Net: NetName=STDBY_M Pin=R55-1
+Added Pin To Net: NetName=STDBY_M Pin=U21-6
+Added Net: Name=STDBY_M
+Added Member To Class: ClassName=Charge_station Member=Component D3 7012X1
+Added Member To Class: ClassName=Charge_station Member=Component D4 7012X1
+Added Member To Class: ClassName=Charge_station Member=Component D5 7012X1
+Added Member To Class: ClassName=Charge_station Member=Component D6 7012X1
+Added Member To Class: ClassName=Charge_station Member=Component D7 7012X1
+Added Member To Class: ClassName=Charge_station Member=Component D8 7012X1
+Added Member To Class: ClassName=Charge_station Member=Component D9 7012X1
+Added Member To Class: ClassName=Charge_station Member=Component D10 7012X1
+Added Member To Class: ClassName=Charge_station Member=Component D11 7012X1
+Added Member To Class: ClassName=Charge_station Member=Component D12 7012X1
+Added Member To Class: ClassName=Charge_station Member=Component D13 7012X1
+Added Member To Class: ClassName=Charge_station Member=Component D14 7012X1
+Added Member To Class: ClassName=Charge_station Member=Component D15 7012X1
+Added Member To Class: ClassName=Charge_station Member=Component D16 7012X1
+Added Member To Class: ClassName=Charge_station Member=Component D17 7012X1
+Added Member To Class: ClassName=Charge_station Member=Component D18 7012X1
+Added Member To Class: ClassName=Charge_station Member=Component D19 7012X1
+Added Member To Class: ClassName=Charge_station Member=Component D20 7012X1
+Added Member To Class: ClassName=Charge_station Member=Component D21 SS34ALH
+Added Member To Class: ClassName=Charge_station Member=Component D22 SS34ALH
+Added Member To Class: ClassName=Charge_station Member=Component D23 7012X1
+Added Member To Class: ClassName=Charge_station Member=Component D24 7012X1
+Added Member To Class: ClassName=Charge_station Member=Component R36 STD_RES
+Added Member To Class: ClassName=Charge_station Member=Component R37 STD_RES
+Added Member To Class: ClassName=Charge_station Member=Component R38 STD_RES
+Added Member To Class: ClassName=Charge_station Member=Component R39 STD_RES
+Added Member To Class: ClassName=Charge_station Member=Component R40 STD_RES
+Added Member To Class: ClassName=Charge_station Member=Component R41 STD_RES
+Added Member To Class: ClassName=Charge_station Member=Component R42 STD_RES
+Added Member To Class: ClassName=Charge_station Member=Component R43 STD_RES
+Added Member To Class: ClassName=Charge_station Member=Component R44 STD_RES
+Added Member To Class: ClassName=Charge_station Member=Component R45 STD_RES
+Added Member To Class: ClassName=Charge_station Member=Component R46 STD_RES
+Added Member To Class: ClassName=Charge_station Member=Component R47 STD_RES
+Added Member To Class: ClassName=Charge_station Member=Component R48 STD_RES
+Added Member To Class: ClassName=Charge_station Member=Component R49 STD_RES
+Added Member To Class: ClassName=Charge_station Member=Component R50 STD_RES
+Added Member To Class: ClassName=Charge_station Member=Component R51 STD_RES
+Added Member To Class: ClassName=Charge_station Member=Component R52 STD_RES
+Added Member To Class: ClassName=Charge_station Member=Component R53 STD_RES
+Added Member To Class: ClassName=Charge_station Member=Component R54 STD_RES
+Added Member To Class: ClassName=Charge_station Member=Component R55 STD_RES
+Added Member To Class: ClassName=Charge_station Member=Component R56 STD_RES
+Added Member To Class: ClassName=Charge_station Member=Component R57 STD_RES
+Added Room: Name=Charge_station

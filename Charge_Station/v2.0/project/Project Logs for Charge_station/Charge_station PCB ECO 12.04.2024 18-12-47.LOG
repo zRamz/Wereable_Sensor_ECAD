@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetD21_2 Pin=L1-2
+Change Component Footprint: Designator=X1 Old Footprint=POGO_CON New Footprint=POGO PINS
+Change Component Footprint: Designator=X2 Old Footprint=POGO_CON New Footprint=POGO PINS
+Change Component Footprint: Designator=X3 Old Footprint=POGO_CON New Footprint=POGO PINS
+Change Component Footprint: Designator=X4 Old Footprint=POGO_CON New Footprint=POGO PINS
+Change Component Footprint: Designator=X5 Old Footprint=POGO_CON New Footprint=POGO PINS
+Change Component Footprint: Designator=X6 Old Footprint=POGO_CON New Footprint=POGO PINS
+Change Component Footprint: Designator=X7 Old Footprint=POGO_CON New Footprint=POGO PINS
+Change Component Footprint: Designator=X8 Old Footprint=POGO_CON New Footprint=POGO PINS
+Change Component Footprint: Designator=X9 Old Footprint=POGO_CON New Footprint=POGO PINS
+Change Component Footprint: Designator=X10 Old Footprint=POGO_CON New Footprint=POGO PINS
+Add Pin To Net: Unknown Pin: Pin D21-1
+Add Pin To Net: Unknown Pin: Pin D21-2
+Add Pin To Net: Unknown Pin: Pin X11-1
+Add Pin To Net: Unknown Pin: Pin X11-2
+Add Pin To Net: Unknown Pin: Pin X12-1
+Add Pin To Net: Unknown Pin: Pin X12-2
+Add Pin To Net: Unknown Pin: Pin X13-1
+Add Pin To Net: Unknown Pin: Pin X13-2
+Added Room: Name=Charge_station
